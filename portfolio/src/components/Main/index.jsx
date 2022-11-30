@@ -1,13 +1,15 @@
 import React from 'react';
 import { About } from '../About';
 import { Hero } from '../Hero';
+import { Skills } from '../Skills';
 
 const Main = () => {
     return(
         <div>
-        estamos en el  Main
+       
         <Hero/>
         <About/>
+        <Skills/>
         </div>
     )
 }
