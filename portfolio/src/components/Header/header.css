@@ -7,8 +7,8 @@
     margin-top: 20px;
 } 
 
-.milogo{
-    /*fonts*/
+nav:hover{
+    background-color: green;
 }
 
 nav a{
