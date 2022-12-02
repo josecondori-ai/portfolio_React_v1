@@ -5,6 +5,8 @@
     margin-top: 20px;
     width: 65%;
     margin: 0 auto;
+   
+    padding: 70px 0;
     
 }
 
@@ -29,3 +31,11 @@
 .botonAbout i{
     color: white;
 }
+/*revisar*/
+.botonAbout:hover, .botonAbout i:hover{
+    background-color: white;
+    color: black;
+}
+
+
+
