@@ -10,9 +10,10 @@ const Navbar = () => {
             <nav>
                 <NavLink to="/">Inicio</NavLink>
                 <a href='#'>About me</a>
-                <a href='#'>My skills</a>
+                <a href='#myskill'>My skills</a>
                 <a href='#'>Works</a>
                 <NavLink to="/contacto"> Contacto </NavLink>
+                <NavLink to='/otraPagina'>Otra Pagina</NavLink>
             </nav>
             
         </div>

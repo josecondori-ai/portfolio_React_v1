@@ -3,7 +3,7 @@ import jugando from '../../assets/jugando.jpg'
 import './Skills.css'
 const Skills = () => {
     return(
-        <div className='contenedorSkills'>
+        <div className='contenedorSkills' id='myskill'>
             <h2>My Skills</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <div className='contenedorImagenes'>
